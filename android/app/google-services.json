@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627937456774",
+    "project_id": "chatkuy-2e8df",
+    "storage_bucket": "chatkuy-2e8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627937456774:android:422e333dfa35d14af51707",
+        "android_client_info": {
+          "package_name": "co.eleanor.chatkuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627937456774-7pi3jla0j07o8kul10jnir7vr6j60io9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlH6FztA2eCQEA9LJxFKFFMNyCKCU6yu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627937456774-7pi3jla0j07o8kul10jnir7vr6j60io9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
